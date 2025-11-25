@@ -22,8 +22,8 @@ Este proyecto fue desarrollado como práctica universitaria de programación en 
 - Detección de victoria en:
   - Vertical  
   - Horizontal  
-  - Diagonal ↘  
-  - Diagonal ↗
+  - Diagonal
+  - Diagonal
 - Comprobación de columnas llenas.
 - Empate cuando no quedan huecos.
 
@@ -35,7 +35,7 @@ Este proyecto fue desarrollado como práctica universitaria de programación en 
   - Partidas perdidas
 - Los datos se almacenan en *jugadores.txt*.
 
-### 🗂 Archivos usados
+###  Archivos usados
 - `jugadores.txt` → almacena la base de datos local de jugadores.
 
 ---
