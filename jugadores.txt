@@ -1,0 +1,5 @@
+4
+Jugador1 3 2
+Jugador2 2 3
+Jugador3 0 0
+DeLa 0 0
